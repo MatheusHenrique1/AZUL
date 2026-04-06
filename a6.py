@@ -7,3 +7,5 @@ if n1.isdigit():
     print("O quadrado é: ", numero ** 2)
 else: 
     print("Não é número")
+    
+fiz com chat.
